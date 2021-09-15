@@ -9,5 +9,4 @@ Tercer parrafo
 
 Cuarto parrafo
 
-Parrafo creado desde otra rama
-Parrafo creado desde master
+
